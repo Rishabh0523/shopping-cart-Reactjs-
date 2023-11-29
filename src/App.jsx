@@ -5,7 +5,9 @@ import Home from "./pages/Home";
 import Cart from "./pages/Cart"
 
 const App = () => {
-  return (<div>
+  return 
+  
+    (<div>
         <div className="bg-slate-900">
           <Navbar/>
         </div>
@@ -14,6 +16,7 @@ const App = () => {
           <Route path="/cart" element={<Cart/>} />
         </Routes>
   </div>)
+  
 };
 
 export default App;
