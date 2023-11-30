@@ -12,6 +12,7 @@ export const products = [
       count: 120,
     },
   },
+  
   {
     id: 2,
     title: "Mens Casual Premium Slim Fit T-Shirts ",
@@ -26,6 +27,7 @@ export const products = [
       count: 259,
     },
   },
+  
   {
     id: 3,
     title: "Mens Cotton Jacket",
@@ -39,6 +41,7 @@ export const products = [
       count: 500,
     },
   },
+  
   {
     id: 4,
     title: "Mens Casual Slim Fit",
@@ -52,6 +55,7 @@ export const products = [
       count: 430,
     },
   },
+  
   {
     id: 5,
     title:
@@ -66,6 +70,7 @@ export const products = [
       count: 400,
     },
   },
+  
   {
     id: 6,
     title: "Solid Gold Petite Micropave ",
@@ -79,6 +84,7 @@ export const products = [
       count: 70,
     },
   },
+  
   {
     id: 7,
     title: "White Gold Plated Princess",
@@ -92,6 +98,7 @@ export const products = [
       count: 400,
     },
   },
+  
   {
     id: 8,
     title: "Pierced Owl Rose Gold Plated Stainless Steel Double",
@@ -105,6 +112,7 @@ export const products = [
       count: 100,
     },
   },
+  
   {
     id: 9,
     title: "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
@@ -118,6 +126,7 @@ export const products = [
       count: 203,
     },
   },
+  
   {
     id: 10,
     title: "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
@@ -131,6 +140,7 @@ export const products = [
       count: 470,
     },
   },
+  
   {
     id: 11,
     title:
@@ -145,6 +155,7 @@ export const products = [
       count: 319,
     },
   },
+  
   {
     id: 12,
     title:
@@ -159,6 +170,7 @@ export const products = [
       count: 400,
     },
   },
+  
   {
     id: 13,
     title: "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
@@ -172,6 +184,7 @@ export const products = [
       count: 250,
     },
   },
+  
   {
     id: 14,
     title:
@@ -186,6 +199,7 @@ export const products = [
       count: 140,
     },
   },
+  
   {
     id: 15,
     title: "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
@@ -199,6 +213,7 @@ export const products = [
       count: 235,
     },
   },
+  
   {
     id: 16,
     title:
